@@ -1,4 +1,8 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(59, 230, 25);
     font-size: 18px;
+}
+h1 {
+    font-size: 28px;
+    color: yellow;
 }
